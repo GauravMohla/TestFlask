@@ -1,0 +1,7 @@
+{
+  "name": "Sample Flask App",
+  "description": "Basic Hello World app with Flask",
+  "repository": "https://github.com/GauravMohla/TestFlask",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["flask", "python", "static"]
+}
